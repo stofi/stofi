@@ -10,6 +10,7 @@ Occasionally moving pixels for fun — creative coding, music tools, hardware pr
 <p align="left">
   <a href="https://github.com/stofi"><img src="badges/social_github.png" alt="follow me on GitHub" width="88" height="31"></a>
   <a href="https://bsky.app/profile/krystof.eurosky.social"><img src="badges/social_bluesky.png" alt="follow me on Bluesky" width="88" height="31"></a>
+  <a href="https://github.com/anthropics/claude-code"><img src="badges/tech_claudecode.png" alt="built with Claude Code" width="88" height="31"></a>
   <a href="https://github.com/vuejs/core"><img src="badges/tech_vue.png" alt="made with Vue.js" width="88" height="31"></a>
   <a href="https://github.com/nuxt/nuxt"><img src="badges/tech_nuxt.png" alt="built with Nuxt 3" width="88" height="31"></a>
   <a href="https://github.com/microsoft/TypeScript"><img src="badges/tech_typescript.png" alt="written in TypeScript" width="88" height="31"></a>
